@@ -3,21 +3,7 @@ Discussion to formulate Code List that can be utilised to identify patients that
 
 A recent meta-analysis by Bosco et al., (2021) identified that numerous terms are included within different authors definitions, often as a composite outcome.
 
-The conditions often reported include:
-
-Acute Myocardial Infarction
-
-Acute coronary syndrome / ischaemic heart disease
-
-Stroke
-
-Heart Failure
-
-All-cause death
-
-CV death
-
-Revascularisation
+The conditions often reported include: Acute Myocardial Infarction, Acute coronary syndrome / ischaemic heart disease, Stroke, Heart Failure, All-cause death, CV death, Revascularisation. 
 
 These conditions are then reported in varying combinations.
 
